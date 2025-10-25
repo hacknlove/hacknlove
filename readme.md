@@ -2,24 +2,17 @@
 
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hacknlove&theme=vision_friendly_dark) 
 
-As a lifelong coding enthusiast, I am deeply passionate about creating innovative solutions through code.
+As a lifelong coding enthusiast, I’m passionate about building tools that empower creativity and collaboration.
 
-## Current area of specialisation
+## Current personal project
 
-I am currently focusing on edge web development, striving to create the fastest and most efficient web applications. My expertise lies in leveraging edge computing to enhance web performance dramatically.
+I’m developing an application for theatre groups — designed to study scripts, rehearse, prepare stage performances, and synchronize technicians in real time during the show.
 
-Check out my personal site, [spitofy](https://spitofy.com), to experience my fusion of coding and music – my twin passions.
+## I'm an actor myself
 
-Is it fast?
-
-## My Secret Sauce
-
-The key to maximizing edge capabilities? A hybrid approach. I specialize in using edge workers to dynamically enrich static sites with real-time content.
+I’m building the app I need: a tool that truly understands the workflow of rehearsals and live performances.
 
 ## What's next?
 
-Looking for a high-performance landing page that leaves competitors behind? I’m your go-to expert.
+Iterating until the private prototype is ready to share with the world.
 
-Need a blazing-fast web application? Let's discuss its feasibility at the edge. Some features might be more challenging than others, but I'm always up for a challenge.
-
-Feel free to reach out!
